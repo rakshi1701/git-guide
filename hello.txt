@@ -1,3 +1,5 @@
 hello world for git hub
 
 git is working
+
+create an avatar for user
